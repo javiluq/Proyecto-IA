@@ -5,13 +5,14 @@ Este proyecto consiste en una aplicación de generación de imágenes personaliz
 El sistema permite generar imágenes nuevas y estilizadas del usuario (por ejemplo, "como astronauta", "en estilo cyberpunk", etc.), respetando sus rasgos faciales, gracias al entrenamiento personalizado del modelo.
 
 ---
-## 🚀 Demo
+
 <img width="1024" height="1024" alt="moto" src="https://github.com/user-attachments/assets/abbd9cc5-292e-4339-9cb5-87bbff4e751b" />
 
 ---
 
 
-🚀 Funcionalidad principal
+🚀 Funcionalidad principal:
+
 Se entrena un modelo personalizado con imágenes del usuario.
 
 Seleccionamos un modelo generador de imagenes ai y se entrena.
